@@ -13,7 +13,11 @@ Mostly, we should follow the instructions of Dries Vints.
 3. Install macOS Command Line Tools by running `xcode-select --install`
 4. Copy public and private SSH keys to `~/.ssh` and make sure they're set to `600`
 5. Clone this repo to `~/.dotfiles`
+
 6. Append `/usr/local/bin/zsh` to the end of your `/etc/shells` file
+
+>Note: point 6. can be done by going into `Terminal.app` typing `sudo nano /etc/shells` at the bottom of the list of available shells add `/usr/local/bin/zsh` press `ctrl+x` confirm changes.
+
 7. Run `install.sh` to start the installation
 
 ## Now, if you have mackup ready (by that I mean you actually use it), follow these steps.
