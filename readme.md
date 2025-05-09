@@ -6,6 +6,12 @@
 
 - This all needs updating
 
+## To do
+
+[ ] Find a way to get your current settings into this repo
+[ ] Specific dotfiles for setting up your python environment
+[ ] Specific dotfiles for setting up git, ssh, etc.
+
 ## How to use them
 
 This is my repository for my dotfiles, as I am still on El Cap I finally decided it is time to switch to Sierra and in Sept/Oct to High Sierra (altho macOS Covefe would be a much more intriguing name). These dotfiles are heavily inspired by Mathias Bynens and Dries Vints, thus I am really grateful for their guidance. I highly encourage you to go through the files and decide on your own which parts you actually need.
