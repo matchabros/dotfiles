@@ -11,6 +11,8 @@
 [ ] Find a way to get your current settings into this repo
 [ ] Specific dotfiles for setting up your python environment
 [ ] Specific dotfiles for setting up git, ssh, etc.
+[ ] Dotfiles to download: Chrome, VSCode, iTerm, Notion
+[ ] Dotfiles to create specific directories on my desktop
 
 ## How to use them
 
