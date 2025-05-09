@@ -1,5 +1,11 @@
 # My Dotfiles
 
+> DO NOT USE THERE DOTFILES IN THIS SATE
+
+## Update 2025-05-09
+
+- This all needs updating
+
 ## How to use them
 
 This is my repository for my dotfiles, as I am still on El Cap I finally decided it is time to switch to Sierra and in Sept/Oct to High Sierra (altho macOS Covefe would be a much more intriguing name). These dotfiles are heavily inspired by Mathias Bynens and Dries Vints, thus I am really grateful for their guidance. I highly encourage you to go through the files and decide on your own which parts you actually need.
